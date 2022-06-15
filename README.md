@@ -5,7 +5,7 @@
    * Covid_deaths: This table has 26 columns
    * Covid_vaccinations: This table has 45 columns
  Based on the datasets, I have calculated these things from covid analysis
- Question: 
+*  Question: 
 1)	Looking at total_cases vs total_deaths
 2)	Looking at total_cases vs population
 3)	Looking at the country with highly affected by the people.
